@@ -1,4 +1,4 @@
-# Resistor Calculator
+# Portfolio Template
 
 ## Table of contents
 
